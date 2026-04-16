@@ -13,9 +13,9 @@ This repository includes the single-finger source files, along with STEP and STL
 
 Contributions, suggestions, and new ideas are highly welcome.
 
-## PCB build
+## Pic
 <p align = "center">
-<img src="Pic/Single finger.PNG" width = "430" height = "260" border="5" />
+<img src="2.Pic/Single finger.PNG" width = "430" height = "260" border="5" />
 </p>
 
 ## LICENSE

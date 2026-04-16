@@ -17,6 +17,9 @@ Contributions, suggestions, and new ideas are highly welcome.
 <p align = "center">
 <img src="2.Pic/Single finger.PNG" width = "430" height = "260" border="5" />
 </p>
+<p align = "center">
+<img src="2.Pic/Physical prototype.jpg" width = "430" height = "260" border="5" />
+</p>
 
 ## LICENSE
 MIT LICENSE

@@ -12,3 +12,14 @@ To better support DIY users, the entire model has been redesigned using SolidWor
 This repository includes the single-finger source files, along with STEP and STL formats. If you are using SolidWorks 2020 or later, you can easily modify dimensions and refine the design to suit your needs.
 
 Contributions, suggestions, and new ideas are highly welcome.
+
+## PCB build
+<p align = "center">
+<img src="Pic/Single finger.PNG" width = "430" height = "260" border="5" />
+</p>
+
+## LICENSE
+MIT LICENSE
+
+## Referneces
+1. [Pollen Robotics-AmazingHand(Many Thks)](https://github.com/pollen-robotics/AmazingHand)

@@ -15,6 +15,9 @@ Contributions, suggestions, and new ideas are highly welcome.
 
 ## Pic
 <p align = "center">
+<img src="2.Pic/Single-Finger Perspective View.PNG" width = "430" height = "260" border="5" />
+</p>
+<p align = "center">
 <img src="2.Pic/Single finger.PNG" width = "430" height = "260" border="5" />
 </p>
 <p align = "center">
